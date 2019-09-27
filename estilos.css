@@ -1,0 +1,48 @@
+.header{
+    background:red;
+    color: #828282;
+    height:2000px;
+    padding:200px;
+}
+.header h1{
+font-size:60px;
+text-transform: uppercase;
+max-width: 500px;
+margin:auto;
+}
+.header p{
+color:#ccc;
+max-width:500px;
+margin: 0 auto;
+font-size:24px;
+line-height:1.8;
+text-align:center;
+height:600px;
+}
+body{
+display:flex;
+justify-content: center;
+align-items: center;
+height:600px;
+}
+.video{
+width:640px;
+height:290px;
+background-color:#2D2D2D;
+}
+.video.play{
+    background-color:green;
+}
+.footer{
+background-color:#ccc;
+height:1200px;
+padding: 100px 300px;
+display:flex;
+justify-content: space-between;
+}
+
+.cuadrado{
+width: 150px;
+height:150px;
+background-color: black;
+}
