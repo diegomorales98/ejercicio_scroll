@@ -1,0 +1,45 @@
+.header{
+    background: red;
+    color:#828282;
+     font-size: 60px;
+}
+
+.header h1{
+    text-transform: uppercase;
+    text-align: center;
+    max-width: 500px;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
+.header p{
+    color:#ccc;
+    max-width:500px;
+    margin: 0 auto;
+    font-size: 24px;
+    line-height:1.8;
+    text-align:center;
+    height:600px;
+}
+.video{
+    width:640px;
+    height:290px;
+    background-color: #2D2D2D;
+    margin-left:190px;
+    
+}
+.video.play{
+    background-color: greenyellow;
+}
+.footer{
+    background-color: #D4D5D6;
+    height:1200px;
+    padding: 300px 60px;
+    display:flex;
+    justify-content: space-between;
+}
+.cuadrado{
+    width:150px;
+    height:150px;
+    background-color: blue;
+}
